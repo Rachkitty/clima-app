@@ -1,0 +1,92 @@
+{
+  "cities": [
+    {
+      "id": "MTY",
+      "name": "Monterrey",
+      "country": "México",
+      "condition": "Soleado",
+      "icon": "☀️",
+      "temperature": 32,
+      "feelsLike": 35,
+      "humidity": 42,
+      "windSpeed": 18,
+      "windDirection": "NNE",
+      "pressure": 1012,
+      "uvIndex": 9,
+      "visibility": 10,
+      "forecast": [
+        { "day": "Lun", "condition": "☀️ Soleado", "tempMax": 33, "tempMin": 21 },
+        { "day": "Mar", "condition": "⛅ Nublado", "tempMax": 30, "tempMin": 20 },
+        { "day": "Mié", "condition": "🌧️ Lluvia", "tempMax": 25, "tempMin": 18 },
+        { "day": "Jue", "condition": "🌤️ Despejado", "tempMax": 29, "tempMin": 19 },
+        { "day": "Vie", "condition": "☀️ Soleado", "tempMax": 34, "tempMin": 22 }
+      ]
+    },
+    {
+      "id": "MEX",
+      "name": "Ciudad de México",
+      "country": "México",
+      "condition": "Parcialmente Nublado",
+      "icon": "⛅",
+      "temperature": 22,
+      "feelsLike": 22,
+      "humidity": 60,
+      "windSpeed": 12,
+      "windDirection": "E",
+      "pressure": 1025,
+      "uvIndex": 6,
+      "visibility": 8,
+      "forecast": [
+        { "day": "Lun", "condition": "⛅ Nublado", "tempMax": 23, "tempMin": 12 },
+        { "day": "Mar", "condition": "🌧️ Lluvia", "tempMax": 20, "tempMin": 11 },
+        { "day": "Mié", "condition": "🌧️ Lluvia", "tempMax": 19, "tempMin": 10 },
+        { "day": "Jue", "condition": "⛅ Nublado", "tempMax": 22, "tempMin": 11 },
+        { "day": "Vie", "condition": "🌤️ Despejado", "tempMax": 24, "tempMin": 12 }
+      ]
+    },
+    {
+      "id": "CUN",
+      "name": "Cancún",
+      "country": "México",
+      "condition": "Tormenta Ligera",
+      "icon": "⛈️",
+      "temperature": 29,
+      "feelsLike": 33,
+      "humidity": 80,
+      "windSpeed": 24,
+      "windDirection": "ESE",
+      "pressure": 1008,
+      "uvIndex": 5,
+      "visibility": 7,
+      "forecast": [
+        { "day": "Lun", "condition": "⛈️ Tormenta", "tempMax": 29, "tempMin": 25 },
+        { "day": "Mar", "condition": "🌧️ Lluvia", "tempMax": 28, "tempMin": 24 },
+        { "day": "Mié", "condition": "⛅ Nublado", "tempMax": 30, "tempMin": 25 },
+        { "day": "Jue", "condition": "☀️ Soleado", "tempMax": 31, "tempMin": 26 },
+        { "day": "Vie", "condition": "☀️ Soleado", "tempMax": 32, "tempMin": 26 }
+      ]
+    },
+    {
+      "id": "GDL",
+      "name": "Guadalajara",
+      "country": "México",
+      "condition": "Despejado",
+      "icon": "🌤️",
+      "temperature": 27,
+      "feelsLike": 28,
+      "humidity": 48,
+      "windSpeed": 14,
+      "windDirection": "O",
+      "pressure": 1016,
+      "uvIndex": 8,
+      "visibility": 10,
+      "forecast": [
+        { "day": "Lun", "condition": "🌤️ Despejado", "tempMax": 28, "tempMin": 15 },
+        { "day": "Mar", "condition": "☀️ Soleado", "tempMax": 29, "tempMin": 16 },
+        { "day": "Mié", "condition": "⛅ Nublado", "tempMax": 27, "tempMin": 15 },
+        { "day": "Jue", "condition": "☀️ Soleado", "tempMax": 30, "tempMin": 16 },
+        { "day": "Vie", "condition": "☀️ Soleado", "tempMax": 30, "tempMin": 17 }
+      ]
+    }
+  ]
+}   
